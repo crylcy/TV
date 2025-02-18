@@ -986,6 +986,7 @@ Name: CCTV-11, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224
 Name: CCTV-11, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225628/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-11, URL: http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225517/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-11, URL: http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000508$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
+Name: CCTV-11, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/1.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-12, URL: http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000377/index.m3u8?key=tvbox6_com$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-12, URL: http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000377/index.m3u8?IAS$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-12, URL: http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000377/index.m3u8?IAS$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: 1920x1080
